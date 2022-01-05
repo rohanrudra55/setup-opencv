@@ -1,4 +1,4 @@
-# First Mehtod
+<!-- # First Mehtod
 **NOTE: Folder names may vary and may need tweaking**
 ## Dependencies 
 - Open terminal and check for xcode tools `xcode-select --install`
@@ -38,3 +38,5 @@ _( For linux its almost same )_
 For **VS Code**
 - Open configuration pallate, then open the _c_cpp_properties.json_ file from _.vccode_
 - Add the OpenCV lib path: `/usr/local/Cellar/opencv/4.5.2_4/include/opencv4/**` ( _In my case_)
+ -->
+ <script src="https://gist.github.com/rohanrudra55/21ba8e11b3d934c8827348d3427c8047.js"></script>
